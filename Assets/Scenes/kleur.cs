@@ -21,7 +21,7 @@ public class kleur : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.name == "Cube")
+        if (other.gameObject.name == "Sphere")
         {
             colorPicker = Random.Range(0, 0);
             switch (colorPicker)
@@ -34,7 +34,7 @@ public class kleur : MonoBehaviour
 
     private void OnTriggerStay(Collider other)
     {
-        if (other.gameObject.name == "Cube")
+        if (other.gameObject.name == "Sphere")
         {
             colorPicker = Random.Range(0, 0);
             switch (colorPicker)

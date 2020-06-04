@@ -22,7 +22,7 @@ public class waggiemove : MonoBehaviour
         if (Input.GetKey(KeyCode.W))
         {
             //Increase forward acceleration
-            if (acceleration < 20.0f)
+            if (acceleration < 5.0f)
             {
                 acceleration += 0.1f;
             }
@@ -31,7 +31,7 @@ public class waggiemove : MonoBehaviour
         if (Input.GetKey(KeyCode.S))
         {
             //Accelerate in the reverse direction.
-            if (acceleration < 20.0f)
+            if (acceleration < 5.0f)
             {
                 acceleration -= 0.1f;
             }
