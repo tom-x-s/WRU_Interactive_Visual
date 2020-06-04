@@ -10,6 +10,7 @@ public class kleur : MonoBehaviour
     void Start()
     {
         rend = GetComponent<Renderer>();
+        rend.material.color = Color.green;
     }
 
     // Update is called once per frame
@@ -20,41 +21,39 @@ public class kleur : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        colorPicker = Random.Range(0, 10);
+        if (other.gameObject.name == "Cube")
+        {
+            colorPicker = Random.Range(0, 0);
+            switch (colorPicker)
+            {
+                case 0: rend.material.color = Color.green; break;
+
+            }
+        }
     }
 
     private void OnTriggerStay(Collider other)
     {
-        switch (colorPicker)
+        if (other.gameObject.name == "Cube")
         {
-            case 0: rend.material.color = Color.white; break;
-            case 1: rend.material.color = Color.cyan; break;
-            case 2: rend.material.color = Color.blue; break;
-            case 3: rend.material.color = Color.black; break;
-            case 4: rend.material.color = Color.red; break;
-            case 5: rend.material.color = Color.green; break;
-            case 6: rend.material.color = Color.grey; break;
-            case 7: rend.material.color = Color.magenta; break;
-            case 8: rend.material.color = Color.yellow; break;
-            case 9: rend.material.color = Color.gray; break;
+            colorPicker = Random.Range(0, 0);
+            switch (colorPicker)
+            {
+                case 0: rend.material.color = Color.red; break;
+
+            }
         }
     }
 
     private void OnTriggerExit(Collider other)
     {
-        colorPicker = Random.Range(0, 10);
-        switch (colorPicker)
-        {
-            case 0: rend.material.color = Color.white; break;
-            case 1: rend.material.color = Color.cyan; break;
-            case 2: rend.material.color = Color.blue; break;
-            case 3: rend.material.color = Color.black; break;
-            case 4: rend.material.color = Color.red; break;
-            case 5: rend.material.color = Color.green; break;
-            case 6: rend.material.color = Color.grey; break;
-            case 7: rend.material.color = Color.magenta; break;
-            case 8: rend.material.color = Color.yellow; break;
-            case 9: rend.material.color = Color.gray; break;
-        }
+       
+            colorPicker = Random.Range(0, 0);
+            switch (colorPicker)
+            {
+                case 0: rend.material.color = Color.green; break;
+
+            }
+        
     }
 }
