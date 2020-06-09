@@ -44,6 +44,10 @@ public class waggiemove : MonoBehaviour
             {
                 acceleration -= 0.1f;
             }
+            else if (acceleration < 0.0f)
+            {
+                acceleration += 0.1f;
+            }
         }
         //Compensate for floating point imprecision.
         //If the player is not supposed to be moving, explicitly tell him so.
