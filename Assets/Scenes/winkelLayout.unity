@@ -722,12 +722,12 @@ Light:
   m_GameObject: {fileID: 62936565}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -759,12 +759,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -1200,12 +1200,12 @@ Light:
   m_GameObject: {fileID: 111949848}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -1237,12 +1237,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -1292,12 +1292,12 @@ Light:
   m_GameObject: {fileID: 113096925}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -1329,12 +1329,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -1528,12 +1528,12 @@ Light:
   m_GameObject: {fileID: 152900919}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -1565,12 +1565,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -2022,12 +2022,12 @@ Light:
   m_GameObject: {fileID: 180784829}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -2059,12 +2059,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -2237,7 +2237,7 @@ Transform:
   m_LocalScale: {x: 7, y: 1, z: 8}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &208836576
 PrefabInstance:
@@ -2698,12 +2698,12 @@ Light:
   m_GameObject: {fileID: 258522575}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -2735,12 +2735,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -2989,12 +2989,12 @@ Light:
   m_GameObject: {fileID: 321234737}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -3026,12 +3026,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -3171,12 +3171,12 @@ Light:
   m_GameObject: {fileID: 325935959}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -3208,12 +3208,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -4430,12 +4430,12 @@ Light:
   m_GameObject: {fileID: 525932187}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -4467,12 +4467,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -4522,12 +4522,12 @@ Light:
   m_GameObject: {fileID: 529869162}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -4559,12 +4559,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -4790,12 +4790,12 @@ Light:
   m_GameObject: {fileID: 563009671}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -4827,12 +4827,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -5531,12 +5531,12 @@ Light:
   m_GameObject: {fileID: 678883968}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -5568,12 +5568,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -5739,12 +5739,12 @@ Light:
   m_GameObject: {fileID: 695787973}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -5776,12 +5776,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -6724,12 +6724,12 @@ Light:
   m_GameObject: {fileID: 890099037}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -6761,12 +6761,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -7353,7 +7353,7 @@ Transform:
   - {fileID: 1046810341}
   - {fileID: 180784830}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1024002162
 PrefabInstance:
@@ -7601,12 +7601,12 @@ Light:
   m_GameObject: {fileID: 1046810340}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -7638,12 +7638,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -8208,7 +8208,7 @@ Transform:
   - {fileID: 371532326}
   - {fileID: 903854061}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1134087392
 PrefabInstance:
@@ -8482,12 +8482,12 @@ Light:
   m_GameObject: {fileID: 1177057873}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -8519,12 +8519,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -8698,12 +8698,12 @@ Light:
   m_GameObject: {fileID: 1246462680}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -8735,12 +8735,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -9280,12 +9280,12 @@ Light:
   m_GameObject: {fileID: 1370527757}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -9317,12 +9317,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -10488,12 +10488,12 @@ Light:
   m_GameObject: {fileID: 1658999264}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -10525,12 +10525,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -11060,12 +11060,12 @@ Light:
   m_GameObject: {fileID: 1798734784}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -11097,12 +11097,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -11476,12 +11476,12 @@ Light:
   m_GameObject: {fileID: 1900724615}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -11513,12 +11513,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -11800,12 +11800,12 @@ Light:
   m_GameObject: {fileID: 1969391864}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -11837,12 +11837,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -12375,12 +12375,12 @@ Light:
   m_GameObject: {fileID: 2042180331}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -12412,12 +12412,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
@@ -13186,12 +13186,12 @@ Light:
   m_GameObject: {fileID: 2145114686}
   m_Enabled: 1
   serializedVersion: 10
-  m_Type: 0
+  m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.9996304, g: 1, b: 0.9386792, a: 1}
   m_Intensity: 1
-  m_Range: 3.5
-  m_SpotAngle: 90
+  m_Range: 7
+  m_SpotAngle: 138
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -13223,12 +13223,12 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 10, y: 1}
   m_BounceIntensity: 1
