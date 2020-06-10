@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 //Add this Script Directly to The Death Zone
-public class boing : MonoBehaviour
+public class collisionSound : MonoBehaviour
 {
     public AudioClip saw;    // Add your Audi Clip Here;
                              // This Will Configure the  AudioSource Component; 
