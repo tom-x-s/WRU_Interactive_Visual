@@ -5,13 +5,16 @@ using UnityEngine;
 public class waggiemove : MonoBehaviour
 {
     public float acceleration = 0.0f;
+
     // Use this for initialization
     void Start()
     {
     }
+
     // Update is called once per frame
     void Update()
     {
+        gameObject.GetComponent<Rigidbody>().velocity = new Vector3(0,0,0);
         MoveCharacter();
         RotateCharacter();
     }
@@ -22,18 +25,18 @@ public class waggiemove : MonoBehaviour
         if (Input.GetKey(KeyCode.W))
         {
             //Increase forward acceleration
-            if (acceleration < 5.0f)
+            if (acceleration < 3.0f)
             {
-                acceleration += 0.1f;
+                acceleration += 0.2f;
             }
         }
         //If the player presses S
         if (Input.GetKey(KeyCode.S))
         {
             //Accelerate in the reverse direction.
-            if (acceleration > -5.0f)
+            if (acceleration > -3.0f)
             {
-                acceleration -= 0.1f;
+                acceleration -= 0.2f;
             }
         }
         //If the player is not pressing forward or backward.
@@ -42,11 +45,11 @@ public class waggiemove : MonoBehaviour
             //Decrease acceleration.
             if (acceleration > 0.0f)
             {
-                acceleration -= 0.1f;
+                acceleration -= 0.2f;
             }
             else if (acceleration < 0.0f)
             {
-                acceleration += 0.1f;
+                acceleration += 0.2f;
             }
         }
         //Compensate for floating point imprecision.
