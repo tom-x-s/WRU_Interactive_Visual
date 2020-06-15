@@ -18,7 +18,7 @@ public class gangpadlicht : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.name == "Sphere")
+        if (other.gameObject.name == "18534_Shopping_Cart")
         {
             countCollisions++;
         }
@@ -26,7 +26,7 @@ public class gangpadlicht : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if (other.gameObject.name == "Sphere")
+        if (other.gameObject.name == "18534_Shopping_Cart")
         {
             countCollisions--;
         }
