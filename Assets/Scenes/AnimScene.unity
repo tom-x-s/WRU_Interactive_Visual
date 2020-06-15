@@ -549,7 +549,7 @@ GameObject:
   m_Component:
   - component: {fileID: 891516075}
   m_Layer: 0
-  m_Name: GameObject (1)
+  m_Name: WagentjeNew
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
