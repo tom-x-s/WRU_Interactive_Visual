@@ -19,7 +19,6 @@ public class Oppakken : MonoBehaviour
 
     private void OnTriggerStay(Collider other)
     {
-        Debug.Log("hallo");
         if (Input.GetKey(KeyCode.F))
         {
             this.transform.position = new Vector3(PObject.transform.position.x, PObject.transform.position.y + 0.6f, PObject.transform.position.z + 0.5f);
