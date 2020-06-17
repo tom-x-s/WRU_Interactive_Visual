@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TestScenes/HomeScene.unity
+    guid: 1363a3a27dcc5724f81afede9bbb5827
+  - enabled: 1
+    path: Assets/Scenes/TestScenes/Alles.unity
+    guid: 871f0fa18d62e16489d2cbf09341e0cc
+  - enabled: 1
+    path: Assets/Scenes/TestScenes/GangpadenEnKoeling.unity
+    guid: c9aec79c745ab17418f028d136eaf658
+  - enabled: 1
+    path: Assets/Scenes/TestScenes/Lichtcirkels_FelZacht.unity
+    guid: 44880409cac50fd42a3c2878af0dd72d
+  - enabled: 1
+    path: Assets/Scenes/TestScenes/Lichtcirkels_GroenRood.unity
+    guid: b8dd1acb1a1d44d4fb42ecd7c7f59d59
   m_configObjects: {}
