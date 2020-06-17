@@ -4,12 +4,11 @@ using UnityEngine;
 
 public class Oppakken : MonoBehaviour
 {
-    private GameObject PObject;
+
 
     // Start is called before the first frame update
     void Start()
     {
-        PObject = gameObject;
     }
 
     // Update is called once per frame
@@ -20,10 +19,10 @@ public class Oppakken : MonoBehaviour
 
     private void OnTriggerStay(Collider other)
     {
-        if (Input.GetKey(KeyCode.F))
+        if (Input.GetKey(KeyCode.F) && other.gameObject.name == "18534_Shopping_Cart")
         {
-            this.transform.position = new Vector3(PObject.transform.position.x, PObject.transform.position.y + 0.6f, PObject.transform.position.z);
-            this.transform.SetParent(PObject.transform);
+            this.transform.position = new Vector3(other.transform.position.x, other.transform.position.y + 0.6f, other.transform.position.z);
+            this.transform.SetParent(other.transform);
             GetComponent<Collider>().enabled = false; 
         }
     }
