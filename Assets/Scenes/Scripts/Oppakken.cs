@@ -4,11 +4,12 @@ using UnityEngine;
 
 public class Oppakken : MonoBehaviour
 {
-    public GameObject PObject;
+    private GameObject PObject;
 
     // Start is called before the first frame update
     void Start()
     {
+        PObject = gameObject;
     }
 
     // Update is called once per frame
