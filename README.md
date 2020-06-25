@@ -10,7 +10,7 @@ Stap 2) Pak "Build_Windows.zip" of "Build_Mac.zip" uit <br>
 Stap 3) Open de uitgepakte map met de build en start "WRU_Interactive_Visual.exe" <br>
 Stap 4) Als het goed is zou je nu de simulatie moeten zien opstarten en bij het hoofdmenu terecht moeten komen <br>
 
-De simulatie zou natuurlijk ook in Unity gedraaid kunnen worden. Hiervoor moet wel de juiste Unity versie geinstalleerd zijn, samen met de meest recente versie van Blender. Dit is ook nog om het project nog door te ontwikkelen. Kijk voor meer informatie daarover hieronder.
+De simulatie zou natuurlijk ook in Unity gedraaid kunnen worden. Hiervoor moet wel de juiste Unity versie geinstalleerd zijn, samen met de meest recente versie van Blender. Dit is ook nodig om het project door te ontwikkelen. Kijk voor meer informatie daarover hieronder.
 
 ## Doorontwikkeling
 Deze prototype simulatie is ontwikkeld met Unity en Blender. Om het verder te kunnen ontwikkelen zijn deze twee programma's dus ook nodig. Belangrijk in het geval van Unity is dan ook dat de juiste versie gebruikt wordt (hier namelijk: Unity 2019.3.15f1).
