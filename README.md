@@ -3,7 +3,7 @@ Een interactieve manier om te laten zien hoe ons concept voor het weareyou proje
 
 ## Simulatie starten
 Zelf gebruik maken van de simualtie is heel simpel. 
-In deze repository staat een stabiele build van de simulatie, genaamd VOEG_BUILD_FILE_EN_NAAM_TOE.EXE dit programma kan zonder verdere benodigdheden opgestart worden om de simulatie te gebruiken. Download de repo, open de build: VOEG_BUILD_FILE_EN_NAAM_TOE.EXE en de rest zou voor zichzelf moeten spreken.
+In deze repository staat een stabiele build van de simulatie, genaamd "Build_Windows.zip" ("Build_Mac.zip" in het geval dat je de simulatie op een Apple product zou willen draaien). Dit programma kan zonder verdere benodigdheden opgestart worden om de simulatie te gebruiken. Download de repo, unzip/pak de build uit, open de map met de build en start "WRU_Interactive_Visual.exe". Als het goed is zou je nu de simulatie moeten zien opstarten en bij het hoofdmenu terecht moeten komen.
 Om de simulatie zelf door te ontwikkelen kijk hieronder. 
 
 ## Doorontwikkeling
