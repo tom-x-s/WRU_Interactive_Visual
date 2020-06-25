@@ -5,12 +5,12 @@ Een interactieve manier om te laten zien hoe ons concept voor het weareyou proje
 Zelf gebruik maken van de simualtie is heel simpel. 
 In deze repository staat een stabiele build van de simulatie, genaamd "Build_Windows.zip" ("Build_Mac.zip" in het geval dat je de simulatie op een Apple product zou willen draaien). Dit programma kan zonder verdere benodigdheden opgestart worden om de simulatie te gebruiken. 
 
-Stap 1) Download de repo
-Stap 2) Pak "Build_Windows.zip" of "Build_Mac.zip" uit 
-Stap 3) Open de uitgepakte map met de build en start "WRU_Interactive_Visual.exe" 
-Stap 4) Als het goed is zou je nu de simulatie moeten zien opstarten en bij het hoofdmenu terecht moeten komen.
+Stap 1) Download de repo <br>
+Stap 2) Pak "Build_Windows.zip" of "Build_Mac.zip" uit <br>
+Stap 3) Open de uitgepakte map met de build en start "WRU_Interactive_Visual.exe" <br>
+Stap 4) Als het goed is zou je nu de simulatie moeten zien opstarten en bij het hoofdmenu terecht moeten komen <br>
 
-Om de simulatie zelf door te ontwikkelen kijk hieronder. 
+De simulatie zou natuurlijk ook in Unity gedraaid kunnen worden. Hiervoor moet wel de juiste Unity versie geinstalleerd zijn, samen met de meest recente versie van Blender. Dit is ook nog om het project nog door te ontwikkelen. Kijk voor meer informatie daarover hieronder.
 
 ## Doorontwikkeling
 Deze prototype simulatie is ontwikkeld met Unity en Blender. Om het verder te kunnen ontwikkelen zijn deze twee programma's dus ook nodig. Belangrijk in het geval van Unity is dan ook dat de juiste versie gebruikt wordt (hier namelijk: Unity 2019.3.15f1).
